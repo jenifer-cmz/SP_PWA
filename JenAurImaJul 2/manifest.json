@@ -1,0 +1,21 @@
+{
+    "name": "Jen.Aur.Ima.Jul",
+    "short_name": "JAIJ",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#075e54",
+    "icons": [
+        {
+            "src": "appicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "appicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
+ 
